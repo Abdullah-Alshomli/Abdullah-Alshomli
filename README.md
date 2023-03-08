@@ -2,7 +2,7 @@
 <hr>
 
 
-I started learning to code in 2020 with Python to get the basics, then moved to Java to study the best practices for software engineers and to better comprehend OOP. and now I am learning game development using Unreal Engine 5.
+I started learning to code in 2020 with Python to get the basics, then moved to Java to study the best practices for software engineers and to better comprehend OOP. Now I am learning game development using Unreal Engine 5.
 
 * 🌍  I live in Qatif.
 * ✉️  You can contact me at [abdullah.alshomli@gmail.com](mailto:abdullah.alshomli@gmail.com)
@@ -30,3 +30,12 @@ I started learning to code in 2020 with Python to get the basics, then moved to 
 
 <p align="left"> <a href="https://github.com/Abdullah-Alshomli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdullah-alshomli/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Abdullah-Alshomli"><img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Alshomli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdullah-Alshomli's GitHub stats" /></a>
+
+<a href="https://github.com/Abdullah-Alshomli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Alshomli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
