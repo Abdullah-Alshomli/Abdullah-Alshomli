@@ -6,7 +6,7 @@ I started learning to code in 2020 with Python to get the basics, then moved to 
 
 * 🌍  I live in Qatif.
 * ✉️  You can contact me at [abdullah.alshomli@gmail.com](mailto:abdullah.alshomli@gmail.com)
-* 🕹️  I'm learning learning Game development
+* 🕹️  I'm learning Game development
 * 🤝  I'm willing to collaborate on anything that peaks my interest, and even if I don't know the language, I'm ready to put in the effort and learn as we go!
 
 ### Skills
